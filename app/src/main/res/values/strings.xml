@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">p1programa</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_pasar">Segunda Actividad</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtapellido">Apellido</string>
+    <string name="txtedad">Edad</string>
+    <string name="txtcorreo">Correo</string>
+</resources>
